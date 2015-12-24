@@ -34,5 +34,7 @@ cacheSolve <- function(x, ...) { #setting defaults
 
 # x<-matrix(runif(1:4), 2,2)
 # y<-makeCacheMatrix(x)
+
 # y
+
 # cacheSolve(y)
